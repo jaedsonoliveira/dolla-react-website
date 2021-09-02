@@ -27,7 +27,7 @@ justify-content:center;
 export const FooterLinksWrapper = styled.div`
 display:flex;
 
-@media screen and (max-width>820px){
+@media screen and (max-width:820px){
     flex-direction:column;
 }
 `;
@@ -37,7 +37,7 @@ display:flex;
 flex-direction: column;
 align-items:flex-start;
 margin:16px;
-taxt-align:left;
+text-align:left;
 width:160px;
 box-sizing:border-box;
 color:#fff;
